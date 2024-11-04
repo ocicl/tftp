@@ -4,6 +4,6 @@ An implementation of the TFTP protocol
 
 |---------+------------------------------------------|
 | source  | git:https://github.com/Shinmera/tftp.git |
-| commit  | 733292c                                  |
+| commit  | 37f51d5                                  |
 | systems | tftp                                     |
 |---------+------------------------------------------|
